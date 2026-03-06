@@ -1,48 +1,43 @@
 ﻿using System;
 
-namespace OiEuSouOGoku
-{ //inicio
+namespace atividadec
+{
     class Program
     {
-        static void Main(string[] args) //metodo principal
+        private const double V = 5.1;
+
+        static void Main(string[] args)
         {
-            // int conta = 1 + 2;
-            // string nome;
-            // nome = "Ricardo";
-            // int idade = 2026 - 2007;
-            // Console.WriteLine("o resultado de 2 + 5 ="+ (2+5)); //comando de imprimir algo na tela
-            //  Console.WriteLine("o resultado de 2 - 5 =" + (2 - 5));
-            // Console.WriteLine("o resultado de 2 * 5 =" + (2 * 5));
-            // Console.WriteLine("o resultado de 2 % 5 =" + (2 * 5 / 100));
-            //  Console.WriteLine(conta);
-            // Console.WriteLine(Math.PI);
-            // Console.WriteLine("meu nome é " + (nome) + " a minha idade é " + (idade));
-            //declaraçao de variavel
+            //exercicio 1
+            //Console.WriteLine("qual é o seu nome? ");
+            //string nome = Console.ReadLine();
+            //Console.WriteLine("qual ano que vc nasceu");
+            //int ano = Convert.ToInt32(Console.ReadLine());
+            //int calculo = 2026 - ano;
+            //Console.WriteLine("o seu nome é " + nome + "a sua idade é " + calculo);
 
-            // int  (numerico interiro ->0)
-            // double (numerico real -> 0.00)
-            // bool  (valor logico -> if/else)
-            // char  (uma unica letra -> 's)
-            // string  (cadeia de caracteres -> "oi eu sou lindo")
+            //exercicio 2
 
-            //declarar variavel nome e idade , apresentar nome e idade
+            //Console.WriteLine("digite o valor em dolar");
+             //int dolar = Convert.ToInt32(Console.ReadLine());
+            //decimal cotação = 5.1m * dolar;
+           // Console.WriteLine("o valor em Reais sera: R$" + cotação);
 
-            // int numero = 4;
-            //int sucessor = numero + 1;
-            //int antecessor = numero - 1;
+            //exercicio3
 
+            //Console.WriteLine("informe o valor da altura do retangulo");
+            //int B = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("informe o valor da base do retangulo");
+            //int H = Convert.ToInt32(Console.ReadLine());
+           // int calculo = B * H;
+           // Console.WriteLine("a area do retangulo sera: " + calculo);
 
+            //exercicio 4
 
-            //Console.WriteLine("o numero selecionado é " + (numero) + " o seu antecessor é " + (antecessor) + " e o seu sucessor é " + (sucessor));
-            int numero1 = 20;
-            int numero2 = 30;
-            int quadrado2 = numero1 * numero1;
-            int quadrado3 = numero2 * numero2;
-            int soma = quadrado2 + quadrado3;
-  
-
-            Console.WriteLine("o quadrado dos numeros sera " + (soma));
-
-        }          
+            Console.WriteLine("digite o valor em dolar");
+             decimal dolar = Convert.ToDecimal(Console.ReadLine());
+             decimal cotação = 5.10m * dolar;
+            Console.WriteLine("o valor em Reais sera: R$" + cotação);
+        }
     }
-} //fim do codigo
+}
