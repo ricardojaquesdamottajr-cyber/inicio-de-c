@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\incrementoedecremento\bin\Debug\netcoreapp2.1\incrementoedecremento.deps.json
+C:\Users\Aluno\Downloads\incrementoedecremento\bin\Debug\netcoreapp2.1\incrementoedecremento.runtimeconfig.json
+C:\Users\Aluno\Downloads\incrementoedecremento\bin\Debug\netcoreapp2.1\incrementoedecremento.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\incrementoedecremento\bin\Debug\netcoreapp2.1\incrementoedecremento.dll
+C:\Users\Aluno\Downloads\incrementoedecremento\bin\Debug\netcoreapp2.1\incrementoedecremento.pdb
+C:\Users\Aluno\Downloads\incrementoedecremento\obj\Debug\netcoreapp2.1\incrementoedecremento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\incrementoedecremento\obj\Debug\netcoreapp2.1\incrementoedecremento.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\incrementoedecremento\obj\Debug\netcoreapp2.1\incrementoedecremento.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\incrementoedecremento\obj\Debug\netcoreapp2.1\incrementoedecremento.dll
+C:\Users\Aluno\Downloads\incrementoedecremento\obj\Debug\netcoreapp2.1\incrementoedecremento.pdb
