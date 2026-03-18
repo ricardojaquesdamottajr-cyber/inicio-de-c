@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\operadoresLogicos\obj\Debug\netcoreapp2.1\operadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\operadoresLogicos\obj\Debug\netcoreapp2.1\operadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\operadoresLogicos\obj\Debug\netcoreapp2.1\operadoresLogicos.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\operadoresLogicos\bin\Debug\netcoreapp2.1\operadoresLogicos.deps.json
+C:\Users\Aluno\Downloads\operadoresLogicos\bin\Debug\netcoreapp2.1\operadoresLogicos.runtimeconfig.json
+C:\Users\Aluno\Downloads\operadoresLogicos\bin\Debug\netcoreapp2.1\operadoresLogicos.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\operadoresLogicos\bin\Debug\netcoreapp2.1\operadoresLogicos.dll
+C:\Users\Aluno\Downloads\operadoresLogicos\bin\Debug\netcoreapp2.1\operadoresLogicos.pdb
+C:\Users\Aluno\Downloads\operadoresLogicos\obj\Debug\netcoreapp2.1\operadoresLogicos.dll
+C:\Users\Aluno\Downloads\operadoresLogicos\obj\Debug\netcoreapp2.1\operadoresLogicos.pdb
