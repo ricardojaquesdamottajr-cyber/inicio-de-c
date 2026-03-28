@@ -16,7 +16,7 @@ namespace questao5._1
             {
                 int salarioM = hsalario * 160;  
                 double calculo = trahoras - 160; 
-                double salarioH = hsalario * 50 / 100;
+                double salarioH = hsalario * 1.5;
                 double calculoS = calculo * salarioH;
                
 
