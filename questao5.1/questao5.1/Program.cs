@@ -10,17 +10,24 @@ namespace questao5._1
             int trahoras = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("quanto voce ganha por hora?");
             int hsalario = Convert.ToInt32(Console.ReadLine());
-            double salarioM = hsalario * 40 * 4;
+            
+            double salarioM = hsalario * 160;
             if (trahoras >= 160)
             {
-                double aumento = salarioM * 0.50;
-                double total = salarioM + aumento;
+                double calculo = trahoras - 160;
+                double salarioH = hsalario * 0.50;
+                double calculoS = salarioH + hsalario;
+                double salario = hsalario * calculoS;
+
+            
+                double total = salarioM + salario ;
                 Console.WriteLine("o seu salario total deste mes é" + total);
             }
 
             else if(trahoras < 160)
             {
-                Console.WriteLine("o seu salario total deste mes é" + salarioM);
+                double salario2 = hsalario * trahoras;
+                Console.WriteLine("o seu salario total deste mes é" + salario2);
             }
 
         }

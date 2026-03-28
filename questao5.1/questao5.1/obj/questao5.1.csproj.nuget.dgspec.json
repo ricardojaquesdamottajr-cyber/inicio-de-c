@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Downloads\\questao5.1\\questao5.1\\questao5.1.csproj": {}
+    "C:\\Users\\Ricardo\\Downloads\\inicio-de-c-main\\inicio-de-c-main\\questao5.1\\questao5.1\\questao5.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Downloads\\questao5.1\\questao5.1\\questao5.1.csproj": {
+    "C:\\Users\\Ricardo\\Downloads\\inicio-de-c-main\\inicio-de-c-main\\questao5.1\\questao5.1\\questao5.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\questao5.1\\questao5.1\\questao5.1.csproj",
+        "projectUniqueName": "C:\\Users\\Ricardo\\Downloads\\inicio-de-c-main\\inicio-de-c-main\\questao5.1\\questao5.1\\questao5.1.csproj",
         "projectName": "questao5.1",
-        "projectPath": "C:\\Users\\Aluno\\Downloads\\questao5.1\\questao5.1\\questao5.1.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Downloads\\questao5.1\\questao5.1\\obj\\",
+        "projectPath": "C:\\Users\\Ricardo\\Downloads\\inicio-de-c-main\\inicio-de-c-main\\questao5.1\\questao5.1\\questao5.1.csproj",
+        "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ricardo\\Downloads\\inicio-de-c-main\\inicio-de-c-main\\questao5.1\\questao5.1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -31,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -38,22 +34,37 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
