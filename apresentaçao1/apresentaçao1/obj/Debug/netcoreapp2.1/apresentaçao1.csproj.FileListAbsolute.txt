@@ -1,0 +1,11 @@
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\bin\Debug\netcoreapp2.1\apresentaçao1.deps.json
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\bin\Debug\netcoreapp2.1\apresentaçao1.runtimeconfig.json
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\bin\Debug\netcoreapp2.1\apresentaçao1.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\bin\Debug\netcoreapp2.1\apresentaçao1.dll
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\bin\Debug\netcoreapp2.1\apresentaçao1.pdb
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.dll
+C:\Users\Aluno\Downloads\apresentaçao1\apresentaçao1\obj\Debug\netcoreapp2.1\apresentaçao1.pdb
