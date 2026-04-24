@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\bin\Debug\netcoreapp2.1\apresentação4.deps.json
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\bin\Debug\netcoreapp2.1\apresentação4.runtimeconfig.json
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\bin\Debug\netcoreapp2.1\apresentação4.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\bin\Debug\netcoreapp2.1\apresentação4.dll
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\bin\Debug\netcoreapp2.1\apresentação4.pdb
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\obj\Debug\netcoreapp2.1\apresentação4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\obj\Debug\netcoreapp2.1\apresentação4.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\obj\Debug\netcoreapp2.1\apresentação4.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\obj\Debug\netcoreapp2.1\apresentação4.dll
+C:\Users\Aluno\Downloads\apresentação4\apresentação4\obj\Debug\netcoreapp2.1\apresentação4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\bin\Debug\netcoreapp2.1\apresentação6.deps.json
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\bin\Debug\netcoreapp2.1\apresentação6.runtimeconfig.json
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\bin\Debug\netcoreapp2.1\apresentação6.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\bin\Debug\netcoreapp2.1\apresentação6.dll
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\bin\Debug\netcoreapp2.1\apresentação6.pdb
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\obj\Debug\netcoreapp2.1\apresentação6.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\obj\Debug\netcoreapp2.1\apresentação6.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\obj\Debug\netcoreapp2.1\apresentação6.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\obj\Debug\netcoreapp2.1\apresentação6.dll
+C:\Users\Aluno\Downloads\apresentação6\apresentação6\obj\Debug\netcoreapp2.1\apresentação6.pdb

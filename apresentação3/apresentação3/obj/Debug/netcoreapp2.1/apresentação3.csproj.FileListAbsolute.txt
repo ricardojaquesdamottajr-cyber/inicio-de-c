@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\bin\Debug\netcoreapp2.1\apresentação3.deps.json
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\bin\Debug\netcoreapp2.1\apresentação3.runtimeconfig.json
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\bin\Debug\netcoreapp2.1\apresentação3.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\bin\Debug\netcoreapp2.1\apresentação3.dll
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\bin\Debug\netcoreapp2.1\apresentação3.pdb
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\obj\Debug\netcoreapp2.1\apresentação3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\obj\Debug\netcoreapp2.1\apresentação3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\obj\Debug\netcoreapp2.1\apresentação3.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\obj\Debug\netcoreapp2.1\apresentação3.dll
+C:\Users\Aluno\Downloads\apresentação3\apresentação3\obj\Debug\netcoreapp2.1\apresentação3.pdb

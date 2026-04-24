@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\bin\Debug\netcoreapp2.1\apresentação5.deps.json
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\bin\Debug\netcoreapp2.1\apresentação5.runtimeconfig.json
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\bin\Debug\netcoreapp2.1\apresentação5.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\bin\Debug\netcoreapp2.1\apresentação5.dll
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\bin\Debug\netcoreapp2.1\apresentação5.pdb
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\obj\Debug\netcoreapp2.1\apresentação5.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\obj\Debug\netcoreapp2.1\apresentação5.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\obj\Debug\netcoreapp2.1\apresentação5.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\obj\Debug\netcoreapp2.1\apresentação5.dll
+C:\Users\Aluno\Downloads\apresentação5\apresentação5\obj\Debug\netcoreapp2.1\apresentação5.pdb
